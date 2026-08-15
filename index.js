@@ -1,3 +1,6 @@
+import './index.css';
+import { menuArray } from './data.js';
+
 const app = document.getElementById('app');
 let cart = {};
 let currentView = 'menu';
